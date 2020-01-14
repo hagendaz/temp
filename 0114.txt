@@ -33,6 +33,9 @@
 ## git log
 깃 확인
 
+### q
+깃 로그 후 q로 나오기
+
 ## git reset [id] --hard
 이전 버전으로 돌아간다.
 
