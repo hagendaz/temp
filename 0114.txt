@@ -1,0 +1,33 @@
+#study-git
+
+## git cd
+파일 나오기
+
+## git ls
+파일 들어가기
+
+## git init
+깃을 초기화 한다.
+
+## git add
+깃을 통해 관리를 한다
+
+## git comit -m "나의 메세지"
+커밋
+
+## git status
+
+## git push
+서버에 올린다.
+
+## git pull
+서버의 버전을 내려받는다.
+
+## git remote
+서버에 연동
+
+## git log
+깃 확인
+
+## git reset [id] --hard
+이전 버전으로 돌아간다.
