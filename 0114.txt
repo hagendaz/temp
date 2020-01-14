@@ -10,12 +10,16 @@
 깃을 초기화 한다.
 
 ## git add
-깃을 통해 관리를 한다
+수정된 파일 추가
+
+## git add .
+파일 전부 올리기
 
 ## git comit -m "나의 메세지"
 커밋
 
 ## git status
+
 
 ## git push
 서버에 올린다.
@@ -31,3 +35,11 @@
 
 ## git reset [id] --hard
 이전 버전으로 돌아간다.
+
+## git remote -v
+깃 확인하기
+
+## git remote add origin https://github.com/hagendaz/temp.git
+깃에서 리모트 애드 오리진 가져와서 입력하기
+
+
